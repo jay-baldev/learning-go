@@ -3,7 +3,7 @@ package greetings
 import( 
     "fmt"
     "errors"
-}
+)
 
 // Hello returns a greeting for the named person
 
